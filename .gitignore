@@ -1,1 +1,13 @@
+# Block temporary Python bytecode files (compiled code)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Block operating system junk
+.DS_Store
+Thumbs.db
+
+# Block local configuration files (like personal VS Code settings)
+.vscode/
+.env
 
